@@ -1,0 +1,30 @@
+body{
+	background-color: hotpink
+}
+
+h1{
+font-size: 30px;
+color: hotpink;
+}
+
+h2{
+font-size: 25px;
+color: teal;
+}
+
+.good{
+font-size: 27px;
+color: orange;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.good.uppercase{
+color: navy;
+}
+
+h1 span {
+color: grey;
+}
